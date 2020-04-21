@@ -1,0 +1,5 @@
+*.pkl
+*.sqlite
+*.csv
+*.png
+*.xlsx
